@@ -22,7 +22,7 @@ The Medical Information App is a robust mobile application developed and deploye
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Medical_Information_App.git
+    git clone https://github.com/karankr2003/Medical_Information_App.git
     ```
 2. Open the project in Android Studio.
 3. Set up the database:
